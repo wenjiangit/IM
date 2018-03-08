@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iTalker.iml" filepath="$PROJECT_DIR$/.idea/modules/iTalker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iTalker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/iTalker_main.iml" group="iTalker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iTalker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/iTalker_test.iml" group="iTalker" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
+    </modules>
+  </component>
+</project>
